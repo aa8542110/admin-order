@@ -68,8 +68,8 @@
               <span><i class="el-icon-service"></i>{{data.orderName}}</span>
             </div>
             <div class="noUse"></div>
-            <div>
-              <div>Total</div>
+            <div class="mr-10">
+              <div style="color:#757575">Total</div>
               <span> <strong>{{data.money}}</strong></span>
             </div>
           </div>

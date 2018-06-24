@@ -46,4 +46,7 @@ export default {
   background: #F2F2F2;
   margin: 0 10% 0 10%
 }
+body{
+  font-family: 'Montserrat','Microsoft JhengHei', 'Roboto', sans-serif, Helvetica, Arial, Verdana,;
+}
 </style>
